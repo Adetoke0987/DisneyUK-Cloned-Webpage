@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+}
+ul{
+    display: flex;
+    gap: 50px;
+    margin-top: 15px;
+    margin-left: 50px;
+  
+
+}
+li{
+    
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.hero{
+    background-image: url(../DISNEY.UK/bg.jpg);
+    height: 77vh;
+    color: whitesmoke;  
+}
+.hword{
+    float: inline-end;
+    margin-top: 50px;
+}

@@ -1,2 +1,8 @@
-# DisneyUK-Cloned-Webpage
-The "DisneyUK Cloned Webpage with React" project involves cloning the Disney UK website and implementing all the functionality using React. The goal is to recreate the main features, design elements, and interactivity of the Disney UK webpage while utilizing React for building components, managing state, and handling user interactions.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

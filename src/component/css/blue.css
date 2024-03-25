@@ -1,0 +1,43 @@
+#idy{
+    background-color: black;
+    color: blue;
+}
+
+.warri{
+    height: 70vh;
+    background-color: rgb(2, 2, 73);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    align-items: center;
+}
+
+
+.gay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+}
+
+
+.guys{
+    display: flex;
+    flex-direction: column;
+    height: 35vh;
+    width: 25vw;
+}
+
+.guys img{
+    height: 25vh;
+}
+
+
+.guys span{
+    font-size: 20px;
+    text-align: center;
+}
+
+
