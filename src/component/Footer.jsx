@@ -7,19 +7,15 @@ const Footer = ()=>{
             <div className='footer'>
                 <span className='old'>
                     <span className='old'> Follow Disney on: </span> 
-                        <span>
-                            <a href="">
+                        <span className='spann'>
                                 <i className="fa fa-facebook"></i>
-                            </a> 
-                            <a href="">
+
                                 <i className="fa fa-instagram"></i>
-                            </a> 
-                            <a href="">
+
                                 <i className="fa-brands fa-x-twitter"></i>
-                            </a> 
-                            <a href="">
+
                                 <i className="fa-brands fa-youtube"></i>
-                            </a> 
+
                         </span>
                 </span>
                             <img src='../../src/component/DISNEY.UK/disney.png' className='myimg'/>

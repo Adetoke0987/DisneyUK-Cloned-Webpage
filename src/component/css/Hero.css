@@ -25,6 +25,8 @@ a{
 .hero{
     background-image: url(../DISNEY.UK/bg.jpg);
     height: 77vh;
+    background-size: cover;
+    background-repeat: no-repeat;
     color: whitesmoke;  
 }
 .hword{
